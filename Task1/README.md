@@ -1,6 +1,6 @@
 # Task1: 影评情感分类
 
-2017-08-14 王丹青
+2017-08-14
 
 - 实现基于logistic/softmax regression的文本分类
 - 数据集：[Classify the sentiment of sentences from the Rotten Tomatoes dataset](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews)
