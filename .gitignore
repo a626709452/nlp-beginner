@@ -1,0 +1,23 @@
+# pyc
+*.pyc
+*.ipynb
+
+# cache
+*/cache
+
+# data
+*/data
+
+# model
+*/save
+*/w2v
+
+# Log
+*/Log
+*.log
+
+# Reference
+*/reference
+
+#ipython
+.ipynb_checkpoints/
